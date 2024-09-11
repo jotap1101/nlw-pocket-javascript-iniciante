@@ -47,10 +47,8 @@ node index.js
 **Autor:** João Pedro Alves
 
 **Licença:** MIT
+
+**Agradecimentos:**
+
+- Agradeço a todos os meus professores, amigos e familiares que me apoiaram e me ajudaram a chegar até aqui. 🚀
 ```
-
-## Agradecimentos
-
-Agradeço a todos os meus professores, amigos e familiares que me apoiaram e me ajudaram a chegar até aqui. 🚀
-
----
