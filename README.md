@@ -51,4 +51,3 @@ node index.js
 **Agradecimentos:**
 
 - Agradeço a todos os meus professores, amigos e familiares que me apoiaram e me ajudaram a chegar até aqui. 🚀
-```
